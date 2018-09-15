@@ -1,6 +1,6 @@
-# Espruino Webpack/Babel Sample
+# Espruino Rollup/Babel Sample
 
-A sample project which uses Webpack and Babel with appropriate settings for Espruino.
+A sample project which uses Rollup and Babel with appropriate settings for Espruino.
 
 ## Setup
 
